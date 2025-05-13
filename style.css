@@ -1,33 +1,5 @@
 body {
-  font-family: Arial;
-  background: #e3f2fd;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f0f0f0;
 }
-
-.contact-form {
-  background: white;
-  padding: 22px;
-  border-radius: 12px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.2);
-}
-
-input, textarea {
-  width: 100%;
-  margin: 10px 0;
-  padding: 10px;
-  border-radius: 6px;
-  border: 1px solid #ccc;
-}
-
-button {
-  background: #1976d2;
-  color: white;
-  border: none;
-  padding: 15px 25px;
-  border-radius: 6px;
-  cursor: pointer;
-}
-
