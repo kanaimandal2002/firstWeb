@@ -12,12 +12,10 @@
 - Simple HTML/CSS UI
 
 ## 🧑‍💻 Technologies Used
-
 - HTML
 - CSS
 - JSP
 - Java Servlet
-
 ## 📜 License
 
 This project is licensed under the MIT License.
