@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Login Page</title>
+    <title>Sample Login Page</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
