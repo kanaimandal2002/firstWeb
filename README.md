@@ -3,7 +3,6 @@
 2. Place them in your Java EE server environment (e.g., Apache Tomcat).
 3. Make sure the servlet is mapped correctly in `web.xml`.
 4. Open your browser and navigate to `http://localhost:8082/your-app/index.html`.
-5. 
 ## ✨ Features
 - User login form
 - Java Servlet for backend processing
